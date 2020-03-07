@@ -3,7 +3,7 @@ package model
 import (
 	"fmt"
 
-	"ciencia.cafe/moedor/util"
+	"ciencia.cafe/moedor/lib/util"
 )
 
 type (
